@@ -1,0 +1,1 @@
+This folder is to showcase my practice with languages and other technologies. 
